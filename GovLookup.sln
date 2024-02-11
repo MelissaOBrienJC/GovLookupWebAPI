@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GovLookup", "GovLookup\GovLookup.csproj", "{47ED637E-F210-443F-8866-29DF3559AF66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GovLookup.Test", "GovLookup.Test\GovLookup.Test.csproj", "{BD635BFC-223E-4E52-A2BC-748CDD3AD763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47ED637E-F210-443F-8866-29DF3559AF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47ED637E-F210-443F-8866-29DF3559AF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47ED637E-F210-443F-8866-29DF3559AF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47ED637E-F210-443F-8866-29DF3559AF66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD635BFC-223E-4E52-A2BC-748CDD3AD763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD635BFC-223E-4E52-A2BC-748CDD3AD763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD635BFC-223E-4E52-A2BC-748CDD3AD763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD635BFC-223E-4E52-A2BC-748CDD3AD763}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A590480-9F8F-49CC-A49E-63179F469FE0}
+	EndGlobalSection
+EndGlobal
